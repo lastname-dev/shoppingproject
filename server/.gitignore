@@ -1,0 +1,67 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.swn
+*.user
+*.suo
+*.pyc
+
+# Compiled files
+build/
+dist/
+out/
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+pids/
+logs/
+results/
+lib-cov/
+*.seed
+*.log
+*.csv
+
+# dotenv environment variables file
+.env
+
+# Mac OS
+.DS_Store
+
+# Jest coverage report
+coverage/
+
+# Next.js build output
+.next/
+out/
+
+# nuxt.js build output
+.nuxt/
+
+# Parcel build output
+.cache/
+.parcel-cache/
+
+# Yarn PnP file
+.pnp.*
+
+# ESLint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv development environment variables
+dev.js
